@@ -1,0 +1,17 @@
+url: http://theseg.github.io
+baseurl: /OfficialWebsiteOfYourGame
+lsi: false
+markdown:  redcarpet
+permalink: pretty
+highlighter:  true
+timezone: America/Los_Angeles
+exclude: [
+  "README.md",
+  "bower.json",
+  "bower_components",
+  "node_modules",
+  "Gemfile*",
+  "Gruntfile.js",
+  "package.json",
+  "vendor",
+]
