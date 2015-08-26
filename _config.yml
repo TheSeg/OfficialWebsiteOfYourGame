@@ -1,9 +1,9 @@
 url: http://theseg.github.io
 baseurl: /OfficialWebsiteOfYourGame
 lsi: false
-markdown:  redcarpet
+markdown: redcarpet
 permalink: pretty
-highlighter:  true
+highlighter: pygments
 timezone: America/Los_Angeles
 exclude: [
   "README.md",
