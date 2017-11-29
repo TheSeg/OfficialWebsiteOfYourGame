@@ -3,7 +3,6 @@ baseurl: /OfficialWebsiteOfYourGame
 lsi: false
 markdown: redcarpet
 permalink: pretty
-highlighter: pygments
 timezone: America/Los_Angeles
 exclude: [
   "README.md",
